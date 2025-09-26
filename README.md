@@ -29,8 +29,20 @@ Key variable of interest:
 
 ## 📊 Sample Visualizations
 
+
+### Age Distribution of Patients
+![Age Distribution](plots/patient_age_distribution_plot.png)
+
+
+
 ### Readmitted Distribution
 ![Readmitted Distribution](plots/count_vs_readmitted_plot.png)
+
+
+### Readmitted Distribution 2
+
+![Readmitted Distribution](plots/readmissions_by_gender_plot.png)
+
 ---
 ---
 
