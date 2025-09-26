@@ -1,17 +1,10 @@
-# Diabetes Readmission Prediction
+ # Diabetes Readmission Prediction
 
 This project explores the **Diabetes 130-US hospitals dataset** from the UCI Machine Learning Repository.  
 The goal is to analyze patient data and predict whether a patient will be readmitted to the hospital within 30 days, after 30 days, or not at all.  
 
-# Diabetes Readmission Prediction
-
-This project explores the **Diabetes 130-US hospitals dataset** from the UCI Machine Learning Repository.  
-The goal is to analyze patient data and predict whether a patient will be readmitted to the hospital within 30 days, after 30 days, or not at all.  
-
----
-
-## 💡 Project Motivation
-Hospital readmissions are a critical issue in healthcare.  
+  
+The goal is to analyze patient data and predict whether a patient will be readmitted to the hospital within 30 days, after 30 days, or not at allare a critical issue in healthcare.  
 - They increase **healthcare costs** and put extra strain on limited hospital resources.  
 - For patients with **chronic conditions like diabetes**, frequent readmissions can indicate poor disease management, complications, or gaps in continuity of care.  
 - Predicting which patients are most at risk of being readmitted helps hospitals:  
@@ -33,6 +26,12 @@ By applying **data science and machine learning**, this project aims to uncover 
 Key variable of interest:
 - `readmitted` → `"NO"`, `">30"`, or `"<30"`
 
+
+## 📊 Sample Visualizations
+
+### Readmitted Distribution
+![Readmitted Distribution](plots/count_vs_readmitted.png)
+---
 ---
 
 ## ⚙️ Workflow
